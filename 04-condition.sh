@@ -4,7 +4,6 @@
 
 #if test ...
 #if [...]
-
 read -p "note:" note 
 read -p "Entrez une lettre:" lettre
 
