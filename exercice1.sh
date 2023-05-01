@@ -8,6 +8,7 @@
 #2- verfifier que le mot existe
 #3= afficher ecran true/false
 
+#
 read -p "Entrez un mot:" mot
 
 verif=`wget -qO - http://dictionary.objectif8.com/exists.php?word=$mot`
